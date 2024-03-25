@@ -6,3 +6,6 @@
 
 <h2>Let us know which components will be required to make it.</h2>
     <hr>
+<ul>
+        <li>Arduino Mega <a href="https://www.amazon.in/Arduino-Mega-2560-ATmega2560-Original/dp/B0CMJ7LZPF/ref=sr_1_6?crid=176CPCAFNNNVC&dib=eyJ2IjoiMSJ9.41iPd25FkOhg9rbUtrKZeW5nSN6sgINecNGBr4GJXgpQa3DVOMP6_MlldiEbGX9vHFPuy23A6GKHT-TMdLcfurkFmqB_5xlvqhGq382CN_Pnw-Q4qaXjxjxPX4izcpVlGromwGGEcvzh29n8p5c5ovSmksY8dTj8kYRUuwONVxmHv9qN8KcD0WfPd04sFYBVk89sMSnWB3YRuHphIWkTh4K1C3k-jfNTlddAg8W0wjP34AAHBd-jZQ7yKc0hipJcGdqUo6KAWUT4e5qc7qgt5RU7rR39aw-H2YPuWikm76I.0N7rzbE62AarR0ZDqsCtXylmFuzM7UzJTezqcmIKYRk&dib_tag=se&keywords=arduino+mega&qid=1711374340&sprefix=arduino+mega%2Caps%2C297&sr=8-6"></a>Click !</li>
+    </ul>
