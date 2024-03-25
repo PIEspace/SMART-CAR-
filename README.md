@@ -1,11 +1,3 @@
-<H1>SMART CAR </H1>
+<H1>SMART CAR</H1>
     <hr>
-    <p>Hello everyone my name is amit kumar lets make a smart car </p>
-    <br>
-    <p>In how many ways can you operate this SMART CAR </p>
-    <br>
-    <ul>
-        <li>Python</li>
-        <li>Processing</li>
-        <li>Joystick</li>
-    </ul>
+    <p>Smart Car is an affordable, open-source robot that offers a great learning experience, especially for beginners interested in understanding robotics. This project incorporates computer vision and teaches you various concepts, including processing and controlling the robot using a joystick. It's an excellent way to dive into the world of robotics while keeping costs low. </p>
