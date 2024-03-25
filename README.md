@@ -1,2 +1,11 @@
-# NRF24L01-CAR
-![bb94757e-74bc-418f-ade3-75f40314ff2e](https://github.com/PIEspace/NRF24L01-CAR/assets/134577378/e3baf13d-cab0-4c83-8887-864ad74492dd)
+<H1>SMART CAR </H1>
+    <hr>
+    <p>Hello everyone my name is amit kumar lets make a smart car </p>
+    <br>
+    <p>In how many ways can you operate this SMART CAR </p>
+    <br>
+    <ul>
+        <li>Python</li>
+        <li>Processing</li>
+        <li>Joystick</li>
+    </ul>
