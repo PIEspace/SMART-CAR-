@@ -7,5 +7,12 @@
 <h2>Let us know which components will be required to make it.</h2>
     <hr>
 <ul>
-        <li>Arduino Mega <a href="https://www.amazon.in/Arduino-Mega-2560-ATmega2560-Original/dp/B0CMJ7LZPF/ref=sr_1_6?crid=176CPCAFNNNVC&dib=eyJ2IjoiMSJ9.41iPd25FkOhg9rbUtrKZeW5nSN6sgINecNGBr4GJXgpQa3DVOMP6_MlldiEbGX9vHFPuy23A6GKHT-TMdLcfurkFmqB_5xlvqhGq382CN_Pnw-Q4qaXjxjxPX4izcpVlGromwGGEcvzh29n8p5c5ovSmksY8dTj8kYRUuwONVxmHv9qN8KcD0WfPd04sFYBVk89sMSnWB3YRuHphIWkTh4K1C3k-jfNTlddAg8W0wjP34AAHBd-jZQ7yKc0hipJcGdqUo6KAWUT4e5qc7qgt5RU7rR39aw-H2YPuWikm76I.0N7rzbE62AarR0ZDqsCtXylmFuzM7UzJTezqcmIKYRk&dib_tag=se&keywords=arduino+mega&qid=1711374340&sprefix=arduino+mega%2Caps%2C297&sr=8-6"></a>Click !</li>
-    </ul>
+        <li>Arduino Mega 2560 Rev3</li>
+        <li>Orange OG555 High Torque DC Motor 12V 100RPM</li>
+        <li>Double BTS7960 43A H-Bridge</li>
+        <li>M177 NRF24L01</li>
+        <li>150W DC-DC Boost Converter 10-32V to 12-35V 6A Step-Up Adjustable Power Supply</li>
+        <li>Amass XT60 </li>
+        <li>US-100 Ultrasonic Sensor</li>
+        
+</ul>
