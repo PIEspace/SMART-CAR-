@@ -23,3 +23,11 @@
     <li> Python 3.x </li>
     <li> Processing IDE </li>
 </ul>
+
+<h1> Features </h1>
+<ul>
+    <li>Wireless control of the robot using NRF communication.</li>
+    <li>Real-time obstacle detection using the ultrasonic sensor.</li>
+    <li>You can drive this car through computer vision.</li>
+    <li>You can see its real time data. Through processing.</li>
+</ul>
