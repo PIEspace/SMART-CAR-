@@ -16,3 +16,10 @@
         <li>US-100 Ultrasonic Sensor</li>
         
 </ul>
+
+<h1> Software Requirements </h1>
+<ul>
+    <li> Arduino IDE </li>
+    <li> Python 3.x </li>
+    <li> Processing IDE </li>
+</ul>
