@@ -3,6 +3,7 @@
 // This is the code, you will get it easily on github. https://github.com/PIEspace?tab=repositories
 // You can also follow me on Instagram? https://www.instagram.com/creativeindia__/?hl=en
 
+
 #include <Arduino.h>
 #include <SPI.h>
 #include <nRF24L01.h>
@@ -47,9 +48,7 @@ unsigned long currentTime = 0;
 
 void setup()
 {
-
-    // define the bud rate
-    // in this case i am using 9600 bits per second
+    //define the bud rate in this case i am using 9600 bits per second 
     Serial.begin(9600);
 
     radio.begin();
@@ -59,10 +58,13 @@ void setup()
     radio.startListening();
 
     // define the pinMode function for motor driver
+    // DEFINE THE FIRST MOTOR DRIVER  PINmode
     pinMode(L_EN_ONE, OUTPUT);
     pinMode(R_EN_ONE, OUTPUT);
     pinMode(LPWM_ONE, OUTPUT);
     pinMode(RPWM_ONE, OUTPUT);
+
+    // DEFINE THE SECOND MOTOR DRIVER pinMode
 
     pinMode(L_EN_TWO, OUTPUT);
     pinMode(R_EN_TWO, OUTPUT);
