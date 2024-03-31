@@ -31,3 +31,6 @@
     <li>You can drive this car through computer vision.</li>
     <li>You can see its real time data. Through processing.</li>
 </ul>
+
+![photo three](https://github.com/PIEspace/SMART-CAR-/assets/134577378/01f3eecd-04ac-4106-9734-9a0f62bb6461)
+
